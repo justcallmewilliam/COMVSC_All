@@ -1,0 +1,44 @@
+bbcsport_seg14of4
+0.1 - 0.267650.439660.374716.8355
+Handwritten_numerals
+3sources
+3sources
+0.1 - 0.424470.573960.5240226.7743
+ORL_mtv
+0.1 - 0.914230.76750.7243261.6901
+proteinFold
+0.1 - 0.425110.332850.1994450.1172
+WebKB_cor2views
+0.1 - 0.0973080.358970.2977714.4415
+WebKB_Wisconsin2views
+0.1 - 0.0917280.34340.2871312.5477
+yaleA_3view
+0.1 - 0.807110.751520.67884.983
+WebKB
+WebKB_2views
+bbcsport_seg14of4
+0.1 - 0.341090.54310.443353.6992
+Handwritten_numerals
+0.1 - 0.633570.6540.57265447.1456
+bbcsport_seg14of4
+0.1 - 0.346120.525860.43944-3.4407
+Handwritten_numerals
+
+3sources
+0.1	-	0.48593	0.63905	0.60841	-	14.9794
+ORL_mtv
+0.1	-	0.92392	0.8275	0.77898	-	40.0574
+proteinFold
+0.1	-	0.42258	0.33862	0.18829	-	29.997
+WebKB_cor2views
+0.1	-	0.080978	0.34872	0.28588	-	5.7767
+WebKB_Wisconsin2views
+0.1	-	0.070064	0.36226	0.29271	-	7.6467
+yaleA_3view
+0.1	-	0.78313	0.73939	0.6482	-	2.2571
+WebKB
+WebKB_2views
+bbcsport_seg14of4
+0.1	-	0.3093	0.47414	0.38902	-	3.0032
+Handwritten_numerals
+0.1	-	0.59956	0.6135	0.52842	-	424.1637
